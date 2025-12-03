@@ -3,9 +3,7 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import "./Signup.css";
 
-import logoImage from "../assets/logo.png";
-import leftBgImage from "../assets/bg.png";
-import bgImage from "../assets/background.jpg";
+import logoImage from "../assets/images/logo.png";
 
 // For images in public folder, use direct paths like: "/images/logo.png"
 
